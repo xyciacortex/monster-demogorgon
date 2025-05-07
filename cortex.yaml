@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: monster-demogorgon
+  x-cortex-tag: monster-demogorgon
+x-cortex-custom-data:
+  alignment: chaotic-evil
+  challenge_rating: 26
+  legendary: true
+  source: dnd-5e
+  type: fiend
+x-cortex-owners:
+- email: bestiary@dnd.com
+x-cortex-tag: monster-demogorgon
+x-cortex-type: monster
